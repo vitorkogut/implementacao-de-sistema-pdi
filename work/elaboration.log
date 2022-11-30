@@ -1,0 +1,43 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2022-11-29 17:58:35
+
+Elaboration top modules:
+Architecture                  arch(testbench)
+
+
+--------------------------------------------------------------------------------------------------
+Entity              | Architecture | Library | Info | Compiler Version      | Compilation Options
+--------------------------------------------------------------------------------------------------
+testbench           | arch         | work    |      | 2022.04.117 (Linux64) |  -2019
+design              | arch         | work    |      | 2022.04.117 (Linux64) |  -2019
+slidingwindow_top   | arch         | work    |      | 2022.04.117 (Linux64) |  -2019
+slidingwindow_valid | arch         | work    |      | 2022.04.117 (Linux64) |  -2019
+rowbuffer           | arch         | work    |      | 2022.04.117 (Linux64) |  -2019
+pixreg              | arch         | work    |      | 2022.04.117 (Linux64) |  -2019
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+VHDL Package                       | Library | Info | Compiler Version      | Compilation Options
+--------------------------------------------------------------------------------------------------
+standard                           | std     |      |                       | <unavailable>
+TEXTIO                             | std     |      | 2022.04.117 (Linux64) |  -2019
+std_logic_1164                     | ieee    |      | 2022.04.117 (Linux64) |  -2008
+std_logic_textio                   | ieee    |      | 2022.04.117 (Linux64) | <unavailable>
+NUMERIC_STD                        | ieee    |      | 2022.04.117 (Linux64) |  -2008
+std_logic_arith                    | ieee    |      | 2022.04.117 (Linux64) | <unavailable>
+STD_LOGIC_UNSIGNED                 | ieee    |      | 2022.04.117 (Linux64) | <unavailable>
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+Library                            | Comment
+--------------------------------------------------------------------------------------------------
+ieee                               | Standard IEEE packages library
+std                                | Standard VHDL library
+work                               | None
+--------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim testbench
+
+License to run VHDL performance optimized simulation unavailable.
+
+The performance of simulation is reduced. Version EDU Edition
